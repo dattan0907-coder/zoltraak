@@ -1,0 +1,7 @@
+{
+  "item.zoltraak.zoltraak_staff": "Zoltraak Staff",
+  "tooltip.zoltraak.beam": "Zoltraak [Right Click]",
+  "tooltip.zoltraak.barrage": "Zoltraak Barrage [Shift + Right Click]",
+  "message.zoltraak.aim": "Aim at an enemy within 20 blocks.",
+  "message.zoltraak.cooldown": "Zoltraak Barrage Cooldown - %ss"
+}
